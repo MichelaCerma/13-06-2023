@@ -1,0 +1,15 @@
+.todo {
+  display: flex;
+
+  justify-content: space-between;
+  width: 100%;
+  gap: 10px;
+  background-color: rgb(7, 43, 81);
+
+  border-radius: 10px;
+  padding: 20px;
+}
+.todo h3 {
+  font-weight: 300;
+  color: white;
+}
